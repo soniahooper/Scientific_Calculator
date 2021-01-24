@@ -1,5 +1,4 @@
-SCIENTIFIC CALCULATOR
-My first GitHub Project
+SCIENTIFIC CALCULATOR - My first GitHub Project
 
 This is a program with a simple GUI created in Python3 using a tkinter library.
 
