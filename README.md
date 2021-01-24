@@ -2,7 +2,7 @@
 
 My first GitHub Project
 
-This is a program with a simple GUI created in Python3 using a tkinter library.
+This is an app with a simple GUI created in Python3 using a tkinter library.
 
 My program allows to perform basic engineering calculations which includes trigonometric, exponential, logarithmic functions, etc.
 For me as a person who has to solve various engineering tasks this program became very useful and efficient and it doesn't use a lot of memory space of my computer.
