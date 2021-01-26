@@ -18,7 +18,7 @@ For me as a person who has to solve various engineering tasks this program becam
 
 -Download Scientific_Calculator.py file.
 
--Run the Scientific_Calculator.py. file with the following packages installed:
+-Run the Scientific_Calculator.py file with the following packages installed:
 
  - tkinter
  - math
